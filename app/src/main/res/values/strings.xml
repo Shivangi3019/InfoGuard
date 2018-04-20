@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InfoGuard</string>
+    <string name="text_bank">Bank</string>
+    <string name="text_email">Email</string>
+    <string name="text_social_network">Social Network</string>
+    <string name="text_fill_details">Fill Details</string>
+    <string name="text_username">Username</string>
+    <string name="text_phone_number">Phone Number</string>
+    <string name="text_dob">DOB</string>
+    <string name="text_save">Save</string>
+    <string name="text_update">Update</string>
+    <string name="msg_enter_valid_username">Enter valid UserName</string>
+    <string name="msg_enter_valid_email">Enter valid Email</string>
+    <string name="msg_enter_valid_number">Enter valid Number</string>
+    <string name="msg_enter_valid_dob">Enter valid DOB</string>
+
+    <string-array name="contact_number">
+        <item>+91</item>
+        <item>+45</item>
+        <item>+98</item>
+        <item>+23</item>
+    </string-array>
+</resources>
